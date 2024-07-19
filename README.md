@@ -1,3 +1,3 @@
-# My portifolio
+# My portfolio
 
-Haruna ludidigija
+Haruna ludigija!
