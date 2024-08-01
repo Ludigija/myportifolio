@@ -1,0 +1,158 @@
+body{
+    overflow: scroll;
+    background-color: #F8F8F8;
+    font-family: Poppins;
+}
+
+.navigation{
+    display: flex;
+    justify-content: center;
+    background-color: #4285F4;
+    padding: 50px;
+}
+
+.navigation a{
+    text-decoration:none;
+    font-size: 25px;
+    margin-right: 30px;
+    color: white;
+    font-weight: bold;
+}
+
+.navigation a:hover{
+    color: yellow;
+    
+}
+
+.main{
+    /*background-color: brown;*/
+    display: flex;
+    justify-content: space-between;
+}
+
+.div-two{
+    text-align: center;
+    /*background-color: blue;*/
+    width: 100%;
+}
+
+.div-one{
+    display: flex;
+    flex-direction: column;
+    /*background-color: aqua;*/
+    width: 80%;
+}
+
+.image-div{
+    width: 10%;
+}
+
+.my-image{
+    width: 100%;
+    height: auto;
+    border-radius: 50%;
+}
+
+h2{
+    align-self: center;
+}
+
+.div-about{
+text-align: center;
+}
+
+.about{
+    box-sizing: border-box;
+    width: 30%;
+    display: flex;
+    flex-direction: column;
+    /*background-color: brown;*/
+    justify-content: center;
+    align-items: center;
+    border-radius: 10px;
+    padding: 30px;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+    background-color: white;
+}
+
+.about-image{
+    width: 20%;
+    /*background-color: blue;*/
+
+}
+
+.icon-image{
+    width: 100%;
+    /*background-color: blueviolet;*/
+    border-radius: 50%;
+}
+
+.about-text{
+    /*background-color: aqua;*/
+    text-align: justify;
+    width: 100%;
+}
+
+.about-head{
+    /*background-color: bisque;*/
+    width: 100%;
+    text-align: center;
+}
+
+.about-link{
+    /*background-color: rgb(221, 215, 215);*/
+    width: 100%;
+    text-align: center;
+    padding-top: 20px;
+
+}
+
+.about-link a{
+background-color: aqua;
+font-size: 20px;
+padding: 10px;
+width: 100px;
+border-radius: 10px;
+text-decoration: none;
+}
+
+.main-holder{
+    display: flex;
+    justify-content: space-around;
+    padding-top: 50px;
+
+}
+
+.what-i-do{
+
+}
+
+.previous {
+    background-color: #4CAF50;
+    color: black;
+    font-size: 17px;
+    text-decoration: none;
+  }
+  
+  .next {
+    background-color: #40a143;
+    color: black;
+    font-size: 17px;
+    text-decoration: none;
+    width: 100px;
+    height: 100px;
+    border-radius: 50%
+  }
+
+  .project-image{
+    width: 100%;
+    /*background-color: blueviolet;*/
+    
+}
+
+
+
+
+
+
+  
